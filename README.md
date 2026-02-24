@@ -1,5 +1,7 @@
 # Animated Login Page
 
+**Live Demo:** https://jonasmenezes-dev.github.io/animated-login-page/
+
 Animated and modern login page built with **HTML, CSS and JavaScript**.
 
 ## 📸 Preview
