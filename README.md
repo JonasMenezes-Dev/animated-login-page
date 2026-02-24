@@ -2,20 +2,34 @@
 
 Animated and modern login page built with **HTML, CSS and JavaScript**.
 
+## 📸 Preview
+
+### Login
+![Login Preview](assets/preview-login.png)
+
+### Register
+![Register Preview](assets/preview-registro.png)
+
+### Mobile Register
+![Mobile Preview](assets/preview-mobile-R.png)
+
+### Mobile Login
+![Mobile Preview](assets/preview-mobile-L.png)
+---
+
 ## ✨ Features
 - Smooth animation between Login and Register
 - Clean and modern UI
-- Responsive layout
+- Fully responsive layout
 - Simple and reusable structure
 
 ## 🛠️ Technologies
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (DOM manipulation)
 
 ## 🚀 Getting Started
-Just open the `index.html` file in your browser.
+Clone the repository and open the `index.html` file:
 
----
-
-This project was created for study and front-end portfolio purposes.
+```bash
+git clone https://github.com/JonasMenezes-Dev/animated-login-page
